@@ -1,18 +1,31 @@
-# 👋 ¡Hola! Soy Guebriel Garcés 
+# 👋 ¡Hola! Soy Guebriel Garcés
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la tecnología, con experiencia en el desarrollo de aplicaciones modernas y escalables. Me encanta trabajar en proyectos que representen un reto técnico y que aporten valor real.
+Bienvenido a mi perfil de GitHub. Soy estudiante de Ingeniería de Sistemas, apasionado por la tecnología y el desarrollo de software. Me encanta aprender, crear y colaborar en proyectos que representen un reto técnico y que generen impacto.
+
+---
+
+## 🚀 Tecnologías y Herramientas
+
+* 🔧 **Lenguajes**: Java, JavaScript, HTML, CSS
+* ☕ **Backend**: Java + Spring Boot (aprendizaje)
+* 🎨 **Frontend**: React, Angular (nivel básico)
+* 🗃️ **Base de datos**: SQL
+* 🛠️ **Herramientas**: Git, GitHub, Postman, Linux
 
 ---
 
-## 🚀 Habilidades Destacadas
+## 🌱 Actualmente
 
-- **Desarrollo Backend**: Java con Spring Boot para crear APIs robustas y eficientes.
-- **Frontend Moderno**: Experiencia trabajando con **React** y **Angular** para crear interfaces de usuario interactivas y responsivas.
-- **Bases de Datos**: Uso avanzado de **SQL** para modelado, consultas complejas y optimización.
-- **Control de Versiones**: Manejo experto de **Git** y colaboración en proyectos con **GitHub**.
-- **Entornos Linux**: Configuración y administración de servidores y entornos de desarrollo en Linux.
+* Aprendiendo **Spring Boot** y buenas prácticas de desarrollo backend.
+* Buscando mi **primer empleo** como desarrollador.
+* Participando en proyectos personales y hackathons.
 
 ---
+
+---
+
+Gracias por visitar mi perfil 🙌 ¡Estoy abierto a colaborar y aprender!
+
 
 ## 🛠️ Tecnologías que uso
 
