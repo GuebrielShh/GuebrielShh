@@ -20,7 +20,6 @@ Bienvenido a mi perfil de GitHub. Soy estudiante de Ingeniería de Sistemas, apa
 ## 🌱 Actualmente
 
 * Aprendiendo **Spring Boot** y buenas prácticas de desarrollo backend.
-* Buscando mi **primer empleo** como desarrollador.
 * Participando en proyectos personales y hackathons.
 
 ---
@@ -34,7 +33,6 @@ Gracias por visitar mi perfil 🙌 ¡Estoy abierto a colaborar y aprender!
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
@@ -48,7 +46,6 @@ Gracias por visitar mi perfil 🙌 ¡Estoy abierto a colaborar y aprender!
 
 - 📧 [guebriel1114@gmail.com]
 - 💼 [[www.linkedin.com/in/Guebriel Garcés-4ba60a368](https://www.linkedin.com/in/guebriel-garc%C3%A9s-4ba60a368/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BM9tht6MATGiFoERmzUr9Aw%3D%3D)]
-- 🌍 [Tu sitio web si tienes]
 
 ---
 
