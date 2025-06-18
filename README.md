@@ -19,7 +19,7 @@ Bienvenido a mi perfil de GitHub. Soy estudiante de Ingeniería de Sistemas, apa
 
 ## 🌱 Actualmente
 
-* Aprendiendo **Spring Boot** y buenas prácticas de desarrollo backend.
+* Trabajando con **c#** mejorando como programador
 * Participando en proyectos personales y hackathons.
 
 ---
