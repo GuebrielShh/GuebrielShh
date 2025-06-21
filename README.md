@@ -13,7 +13,7 @@ Bienvenido a mi perfil de GitHub. Soy estudiante de Ingeniería de Sistemas, apa
 * 🎨 **Frontend**: React (nivel básico)
 * 🗃️ **Base de datos**: SQL
 * 🛠️ **Herramientas**: Git, GitHub, Postman, Linux
-* <p <p align="left">
+ <p <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
