@@ -26,11 +26,6 @@ Bienvenido a mi perfil de GitHub. Soy estudiante de Ingeniería de Sistemas, apa
 </p>
 
 
-## 🌱 Actualmente
-
-* Trabajando con **c#** mejorando como programador
-* Participando en proyectos personales y hackathons.
-
 ---
 
 ---
@@ -46,7 +41,6 @@ Gracias por visitar mi perfil 🙌 ¡Estoy abierto a colaborar y aprender!
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 
 ---
 
