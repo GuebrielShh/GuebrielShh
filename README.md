@@ -42,7 +42,7 @@ Gracias por visitar mi perfil 🙌 ¡Estoy abierto a colaborar y aprender!
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 
----
+--
 
 ## 📫 ¿Cómo contactarme?
 
