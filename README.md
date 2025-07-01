@@ -44,7 +44,7 @@ Gracias por visitar mi perfil 🙌 ¡Estoy abierto a colaborar y aprender!
 
 --
 
-## 📫 ¿Cómo contactarme?
+##  ¿Cómo contactarme?
 
 - 📧 [guebriel1114@gmail.com]
 - 💼 [[www.linkedin.com/in/Guebriel Garcés-4ba60a368](https://www.linkedin.com/in/guebriel-garc%C3%A9s-4ba60a368/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BM9tht6MATGiFoERmzUr9Aw%3D%3D)]
